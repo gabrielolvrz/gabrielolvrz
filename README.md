@@ -13,7 +13,7 @@
 
 </div>
 
-<img align="right" alt="Bentola-pic" height="150" style="border-radius:300px;" src="https://i.pinimg.com/originals/32/5c/e5/325ce54d8e407ef4c2632004d2b77b26.gif">
+
 
 <div style="display: inline_block"><br>
 
@@ -21,7 +21,7 @@
 </div>
 
 <div align="left">
-  
+  <img align="right" alt="Bentola-Js" height="150" width="150" src="https://i.pinimg.com/originals/32/5c/e5/325ce54d8e407ef4c2632004d2b77b26.gif">
   <a href="https://github.com/bentola">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentola&layout=compact&langs_count=7&theme=dark"/>
   
