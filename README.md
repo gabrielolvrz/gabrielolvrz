@@ -1,6 +1,6 @@
 <p aligb="center" style="border-radius:100%"><img height="auto" width="10%" src="https://i.pinimg.com/originals/b9/5a/ce/b95aceb8afeed36b5645eed1634db208.png" ></p>
 
-<img align="right" alt="Bentola-pic" height="100" style="border-radius:300px;" src="https://i.pinimg.com/originals/b4/4a/9f/b44a9f09546ed9edd65faecf079c9249.gif">
+<img align="right" alt="Bentola-pic" height="150" style="border-radius:300px;" src="https://i.pinimg.com/originals/b4/4a/9f/b44a9f09546ed9edd65faecf079c9249.gif">
 
 <div>
   
@@ -13,7 +13,7 @@
 
 </div>
 
-<img align="right" alt="Bentola-pic" height="200" style="border-radius:300px;" src="https://i.pinimg.com/originals/32/5c/e5/325ce54d8e407ef4c2632004d2b77b26.gif">
+<img align="right" alt="Bentola-pic" height="150" style="border-radius:300px;" src="https://i.pinimg.com/originals/32/5c/e5/325ce54d8e407ef4c2632004d2b77b26.gif">
 
 <div style="display: inline_block"><br>
 
