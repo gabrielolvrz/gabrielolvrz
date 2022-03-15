@@ -7,9 +7,9 @@
   
  <img align="left" alt="Bentola-pic" height="100" style="border-radius:300px;" src="https://cdn.discordapp.com/attachments/953075351226044536/953361025292460052/6mh.gif">
  
-- Studante
+- Estudante
 - IFGO Tec. Informática
-- Java, Javascript, Typescript
+- Java, Javascript
 - Crio Bots
 
 </div>
