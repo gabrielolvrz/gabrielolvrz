@@ -1,8 +1,8 @@
 
-- Estudante
-- IFGO Tec. Informática
-- Java, Javascript
-- Crio Bots
+- Estudante Universitário
+- Tec. Informática pelo IF Goiano
+- Cursando Graduação em Sistemas de Informação pela UFMS
+- Java
 
 <div align="left">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentola&layout=compact&langs_count=7&theme=dark"/> 
