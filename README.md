@@ -1,7 +1,7 @@
 
 - Estudante Universitário
 - Tec. Informática pelo IF Goiano
-- Cursando Graduação em Sistemas de Informação pela UFMS
+- Cursando Graduação em Sistemas de Informação pela UFU
 - Java
 
 <div align="left">
