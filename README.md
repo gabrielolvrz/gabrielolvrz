@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm Gabriel de Oliveira</h1>
+<h1 align="left">Hi! I'm Gabriel de Oliveira 👋</h1>
 
 Brazilian **Full-Stack Developer** and Information Systems student (UFU)<br>
 focused on building web applications with **Node.js** and **React**.<br>
