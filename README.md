@@ -25,6 +25,9 @@ In my spare time, I enjoy studying **Cybersecurity** concepts and best practices
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
 </a>
+<a href="https://git-scm.com/doc">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>        
+</a>
 
 </div>
 <br>
